@@ -55,7 +55,7 @@ Strategi bisnis **EduPrint** dirancang untuk menyelesaikan kecemasan mahasiswa t
 
 <br>
 
-**Unit Economics (Hasil Validasi Tahap 2):**
+**B Unit Economics (CAC & LTV):**
 * **CAC (Biaya Akuisisi):** Rp 0 (Organik/Tanpa Iklan Berbayar)
 * **LTV (Nilai Pelanggan):** Rp 125.000 / semester
 * *(Kesimpulan: Bisnis sehat karena LTV jauh lebih besar dari CAC)*
@@ -67,7 +67,7 @@ Strategi bisnis **EduPrint** dirancang untuk menyelesaikan kecemasan mahasiswa t
 
 ---
 
-## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
+## ⚖️ 3. Arsitektur Keuangan
 * **Status Merek:** [Aman / Tidak Aman] (berdasarkan pengecekan PDKI)
 * **Bentuk Badan Usaha:** [PT Perorangan / CV]
 
