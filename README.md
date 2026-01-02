@@ -55,7 +55,7 @@ Strategi bisnis **EduPrint** dirancang untuk menyelesaikan kecemasan mahasiswa t
 
 <br>
 
-**B Unit Economics (CAC & LTV):**
+### B. Lean Canvas (Model Bisnis)
 * **CAC (Biaya Akuisisi):** Rp 0 (Organik/Tanpa Iklan Berbayar)
 * **LTV (Nilai Pelanggan):** Rp 125.000 / semester
 * *(Kesimpulan: Bisnis sehat karena LTV jauh lebih besar dari CAC)*
