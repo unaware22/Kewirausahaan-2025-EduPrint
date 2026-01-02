@@ -63,7 +63,7 @@ Strategi bisnis **EduPrint** dirancang untuk menyelesaikan kecemasan mahasiswa t
 📈 **[AKSES DOKUMEN: Perhitungan Keuangan (Google Sheets)](LINK_GOOGLE_SHEETS_KEUANGAN)**
 *(Memuat HPP, BEP, Arus Kas, Neraca, dan kalkulasi Unit Economics)*
 
-📄 **[AKSES DOKUMEN: Laporan Validasi Pasar & Smoke Test (Google Docs)](LINK_GOOGLE_DOCS_TAHAP2)**
+📄 **[AKSES DOKUMEN: Laporan Validasi Pasar & Smoke Test (Google Docs)](https://docs.google.com/document/d/1FfWgvOs_cBoan_eXC8EmVArI_vbEFMMT6bfDINpJAfo/edit?tab=t.0)**
 *(Memuat detail Lean Canvas, Bukti Smoke Test/Iklan, dan Analisis CAC & LTV)*
 
 ---
