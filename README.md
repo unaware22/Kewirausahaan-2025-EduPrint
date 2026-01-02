@@ -27,17 +27,10 @@ Kami telah melakukan validasi permasalahan di wilayah **[Lokasi Validasi]** deng
 
 ---
 
-## 📊 2. Arsitektur Keuangan & Model Bisnis
+## 📊 2. Perancangan Model Bisnis & Validasi Pasar
 
-### A. Ringkasan Keuangan
-* **Modal Awal:** Rp [Nominal Modal Awal]
-* **Break Even Point (BEP):** Bulan ke-[Angka]
-* **Proyeksi Profit (Bulan ke-3):** Rp [Nominal Profit]
-* **Unit Economics:**
-  * **CAC (Biaya Akuisisi):** Rp [Nominal]
-  * **LTV (Nilai Pelanggan):** Rp [Nominal]
 
-### B. Lean Canvas (Model Bisnis)
+### A. Lean Canvas (Model Bisnis)
 
 Strategi bisnis **EduPrint** dirancang untuk menyelesaikan kecemasan mahasiswa terhadap deadline dan kerumitan teknis pencetakan.
 
@@ -60,8 +53,14 @@ Strategi bisnis **EduPrint** dirancang untuk menyelesaikan kecemasan mahasiswa t
 | :--- | :--- |
 | 1. **Produksi:** Kertas, Tinta, Listrik, Maintenance.<br>2. **Operasional:** Kuota Internet, Hosting Web.<br>3. **Distribusi:** Bensin & Honor Kurir.<br>4. **Marketing:** Iklan Medsos & Promo Awal. | 1. **Jasa Print:** Margin dari harga per lembar.<br>2. **Delivery Fee:** Ongkos kirim flat rate.<br>3. **Priority Charge:** Biaya tambahan untuk layanan "Urgent" atau "Cek Format". |
 
-📈 **[AKSES DOKUMEN: Perhitungan Keuangan (Google Sheets)](LINK_GOOGLE_SHEETS_KEUANGAN)**
-*(Memuat HPP, BEP, Arus Kas, Neraca, dan kalkulasi Unit Economics)*
+<br>
+
+**Unit Economics (Hasil Validasi Tahap 2):**
+* **CAC (Biaya Akuisisi):** Rp 0 (Organik/Tanpa Iklan Berbayar)
+* **LTV (Nilai Pelanggan):** Rp 125.000 / semester
+* *(Kesimpulan: Bisnis sehat karena LTV jauh lebih besar dari CAC)*
+
+<br>
 
 📄 **[AKSES DOKUMEN: Laporan Validasi Pasar & Smoke Test (Google Docs)](https://docs.google.com/document/d/1FfWgvOs_cBoan_eXC8EmVArI_vbEFMMT6bfDINpJAfo/edit?tab=t.0)**
 *(Memuat detail Lean Canvas, Bukti Smoke Test/Iklan, dan Analisis CAC & LTV)*
