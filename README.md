@@ -32,7 +32,7 @@ Kami telah melakukan validasi permasalahan di wilayah **[Lokasi Validasi]** deng
 * **Break Even Point (BEP):** Bulan ke-2
 * **Proyeksi Profit (Bulan ke-3):** Rp368.000
 
-📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](LINK_GOOGLE_SHEETS_KEUANGAN)**  
+📈 **[AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)](https://docs.google.com/spreadsheets/d/1iLA501CR9xxekxGexNci8DuKsekoaWBlDgtzq8Nom1E/edit?usp=sharing)**  
 *(Lembar kerja ini memuat perhitungan HPP, BEP, arus kas, dan neraca dengan formula aktif)*
 
 ---
