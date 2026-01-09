@@ -43,8 +43,8 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, laporan laba rugi, arus kas, dan
 
 ## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
 
-- **Status Merek:** [Aman / Tidak Aman] (berdasarkan pengecekan PDKI)
-- **Bentuk Badan Usaha:** [PT Perorangan / CV]
+- **Status Merek:** Aman
+- **Bentuk Badan Usaha:** CV (Persekutuan Komanditer)
 
 📄 **[AKSES DOKUMEN: Draft Legalitas & Terms of Service (Google Docs)](LINK_GOOGLE_DOCS_LEGAL)**
 
