@@ -46,7 +46,7 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, laporan laba rugi, arus kas, dan
 - **Status Merek:** Aman
 - **Bentuk Badan Usaha:** CV (Persekutuan Komanditer)
 
-📄 **[AKSES DOKUMEN: Draft Legalitas & Terms of Service (Google Docs)](LINK_GOOGLE_DOCS_LEGAL)**
+📄 **[AKSES DOKUMEN: Draft Legalitas & Terms of Service (Google Docs)](https://docs.google.com/document/d/1BdwMNokWZbga9wH44kBJLlzNNMRB8ghZB4Yp4IdlYRk/edit?usp=sharing)**
 
 ---
 
