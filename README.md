@@ -54,4 +54,4 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, laporan laba rugi, arus kas, dan
 
 Simak penjelasan lengkap mengenai ide bisnis, solusi, dan potensi usaha kami melalui video pitching berikut:
 
-🎞️ [![Video Pitching](https://youtu.be/eLYXmKEsMv8)
+🎞️ [Video Pitching (YouTube)](https://youtu.be/eLYXmKEsMv8)
