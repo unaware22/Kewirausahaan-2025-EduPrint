@@ -17,10 +17,10 @@
 
 ## 🔍 1. Laporan Validasi Lapangan (Field Work)
 
-Kami telah melakukan validasi permasalahan di wilayah **[Lokasi Validasi]** dengan melibatkan **[Jumlah Responden]** responden yang terdiri dari mahasiswa/i Universitas Pancasila.
+Kami telah melakukan validasi permasalahan di wilayah Universitas Pancasila dengan melibatkan 8 responden yang terdiri dari mahasiswa/i Universitas Pancasila.
 
 - **Permasalahan Utama:**  
-  [Jelaskan secara singkat permasalahan yang ditemukan di lapangan]
+  Mahasiswa Universitas Pancasila mengalami kendala dalam penyelesaian tugas akademik akibat keterbatasan layanan pencetakan di sekitar kampus, seperti jam operasional yang terbatas, antrean panjang, dan lokasi yang kurang strategis. Selain itu, mahasiswa sering mengalami kesulitan dalam memastikan kesesuaian format penulisan sesuai standar akademik serta keterbatasan kemampuan desain media publikasi untuk kegiatan organisasi kemahasiswaan.
 
 - **Solusi yang Ditawarkan:**  
   [Jelaskan solusi bisnis yang kalian tawarkan untuk menjawab permasalahan tersebut]
