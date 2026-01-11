@@ -25,8 +25,8 @@ Kami telah melakukan validasi permasalahan di wilayah Universitas Pancasila deng
 - **Solusi yang Ditawarkan:**  
   EduPrint adalah layanan mahasiswa yang menyediakan print 24 jam, pengecekan format tugas, serta antar–jemput dokumen untuk membantu penyelesaian tugas menjelang deadline. Layanan ini mengatasi masalah seperti tempat print tutup malam, antrean panjang, dan kesalahan format. Selain itu, EduPrint juga menyediakan jasa desain poster dan banner kegiatan kampus yang praktis dan profesional melalui pemesanan online.
 
-📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](LINK_GOOGLE_DOCS_VALIDASI)**  
-_(https://docs.google.com/document/d/1dPpFWCmxDTPNnNg3Zz3jxmNyv86i8y1taB-Vy7YWcq0/edit?usp=sharing)_
+📄 **[AKSES DOKUMEN: Laporan Validasi & Bukti Lapangan (Google Docs)](https://docs.google.com/document/d/1dPpFWCmxDTPNnNg3Zz3jxmNyv86i8y1taB-Vy7YWcq0/edit?usp=sharing)**  
+(Dokumen ini memuat transkrip wawancara, dokumentasi foto kegiatan, dan analisis hasil validasi lapangan)
 
 ---
 
