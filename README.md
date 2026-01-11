@@ -7,10 +7,10 @@
 ## 👥 Tim Pengembang
 
 - **Alip Khoeril Akbar** (4523210009) – CEO / Hustler
-- **Aditya Nur Lintang** (4523210003) – COO / Operations
+- **Aditya Nur Lintang** (4523210003) – Legal & Risk Officer
 - **Andra Teguh Ramadhan** (4523210017) – CFO / Finance
 - **Athalla Safriali** (4523210022) – CMO / Hipster
-- **Betrand Daffarel** (4523210029) – Legal & Risk Officer
+- **Betrand Daffarel** (4523210029) – COO / Operations
 - **Mochammad Fadhila Putra** (4523210063) – CTO / Hacker
 
 ---
