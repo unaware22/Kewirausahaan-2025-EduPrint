@@ -48,6 +48,7 @@ _(Lembar kerja ini memuat perhitungan HPP, BEP, laporan laba rugi, arus kas, dan
 
 📄 **[AKSES DOKUMEN: Draft Legalitas & Terms of Service (Google Docs)](https://docs.google.com/document/d/1BdwMNokWZbga9wH44kBJLlzNNMRB8ghZB4Yp4IdlYRk/edit?usp=sharing)**
 _(Dokumen ini mencakup berkas administrasi badan usaha serta draf perjanjian antara penyedia dan pengguna)_
+
 ---
 
 ## 📺 4. Presentasi Produk (Pitch Deck)
